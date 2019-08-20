@@ -1,7 +1,5 @@
-# mentorship-resources
+# Awesome Mentorship Tips
 This are the resources I use to improve my mentorship skills and share with mentees to help them grow.
-
-Have a resource that you find useful? Open a pull request to add it here!
 
 ## Interviewing Resources
 - Watch or participate in technical interviews [interviewing.io](https://interviewing.io/)
@@ -10,3 +8,5 @@ Have a resource that you find useful? Open a pull request to add it here!
 ## Structuring
 - Coding Coach suggests these best practices [Mentorship Guidelines](https://docs.google.com/document/d/1zKCxmIh0Sd4aWLiQncICOGm6uf38S0kJ0xb0qErNFVA/edit#heading=h.1yinzctfb3pc)
 
+## Contributing
+Have a resource that you find useful? Open a pull request to add it here!
