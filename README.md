@@ -1,3 +1,4 @@
+<a href="https://opensource.org"><img height="150" align="right" src="https://opensource.org/files/OSIApprovedCropped.png" alt="Open Source Initiative Approved License logo"></a>
 # Awesome Mentorship Tips
 This are the resources I use to improve my mentorship skills and share with mentees to help them grow.
 
